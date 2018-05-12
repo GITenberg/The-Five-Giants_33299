@@ -1,0 +1,29 @@
+_repo: The-Five-Giants_33299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kidder, Daniel P. (Daniel Parish)
+    aliases:
+    - Kidder, D. P. (Daniel Parish)
+    - Kidder, Daniel Parish
+    birthdate: 1815
+    deathdate: 1891
+    gutenberg_agent_id: '36319'
+    url: http://www.gutenberg.org/2009/agents/36319
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: The Five Giants
+url: http://www.gutenberg.org/ebooks/33299
